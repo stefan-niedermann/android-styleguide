@@ -15,3 +15,5 @@ Often requested options with benefit for many users are
 
 1. Sync only on Wi-Fi
 2. Dark theme
+
+![Settings sample from Nextcloud Deck](./settings.jpg)

@@ -6,4 +6,4 @@ Below of the headline, there can be a descriptive sentence to guide the user, li
 
 ## Sample
 
-![empty-content-view.jpg](Smaple for the Empty content view from Nextcloud Deck)
+![Smaple for the Empty content view from Nextcloud Deck](./empty-content-view.jpg)

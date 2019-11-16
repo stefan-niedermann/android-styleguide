@@ -5,8 +5,8 @@ The target is to get a common user experience across all Nextcloud clients.
 
 ## Table of contents
 
-- [./account-handling](Account handling)
-- [./empty-content-views](Empty content views)
-- [./icon](Icon)
-- [./settings](Settings)
-- [./theming](Theming)
+- [Account handling](./account-handling)
+- [Empty content views](./empty-content-views)
+- [Icon](./icon)
+- [Settings](./settings)
+- [Theming](./theming)
